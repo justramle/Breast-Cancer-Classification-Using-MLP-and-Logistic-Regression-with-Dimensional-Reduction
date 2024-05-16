@@ -1,4 +1,4 @@
-### MLPs for Breast Cancer Classification
+### MLPs for Binary Classification on Breast Cancer Dataset
 
 - Implementation of a neural network designed to classify breast cancer samples into malignant or benign categories
 - Feedforward Processing: Calculates the linear combination of inputs and weights (weighted sum), adds bias, and applies the sigmoid activation function to estimate the probability of belonging to a particular class.
